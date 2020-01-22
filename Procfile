@@ -1,1 +1,1 @@
-web: gunicorn makeup.wsgi --log-file -
+web: gunicorn airline.wsgi --log-file -
